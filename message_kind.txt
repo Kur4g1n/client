@@ -1,5 +1,5 @@
 отправляемые:
-"mchat_name,name : text" - получил сообщение
+"mchat_name,name:text" - отправил сообщение
 "aname" -  запрос private data 
 "cname" - запрос списка начатых чатов 
 "g" - запрос списка пользователей из бд
@@ -9,7 +9,7 @@
 "rlogin,password" - регистрация
 
 получаемые:
-"mname : text" - получил сообщение
+"mchat_name,name:text" - получил сообщение
 "d,status,gay,cursed,gnf,abuzer" - получил private data
 "c,chat1,chat2,chat3" - получил список чатов
 "g,ghoul1,ghoul2,ghoul3" - cписок пользователей из бд
