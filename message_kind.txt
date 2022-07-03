@@ -2,7 +2,11 @@
 "mname : text" - отправил сообщение
 "aname" -  запрос private data, список начатых чатов, списка пользователей из бд
 "dname,status,gay,cursed,gnf,abuzer" - отправил обновленную private data
-"schat_name,name,ghoul1,ghoul2,ghoul3" - созданный чат и список участников
+"aname" -  запрос private data 
+"cname" - запрос списка начатых чатов 
+"g" - запрос списка пользователей из бд
+"d,status,gay,cursed,gnf,abuzer" - отправил обновленную private data
+"schat_name:name,ghoul1,ghoul2,ghoul3" - созданный чат и список участников
 "elogin,password" - пытается зайти в аккаунт
 "rlogin,password" - регистрация
 
